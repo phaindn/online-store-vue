@@ -1,10 +1,12 @@
 <template>
     <nav class="navbar navbar-expand-md navbar-fixed-top bg-danger navbar-danger">
         <div class="container">
-            <a href="#" class="navbar-brand text-white" onclick="homepage()">
-                <img class="logo" src="../assets/logo.png"> 
-                CryptoShop
-            </a>
+            <router-link to="/">
+                <a class="navbar-brand text-white">
+                    <img class="logo" src="../assets/logo.png"> 
+                    CryptoShop
+                </a>
+            </router-link>
             <button class="navbar-toggler" data-toggle="collapse" data-target="#collapsibleNavbar">
                  <i class="fa fa-bars" style="color: white"></i>
             </button>
