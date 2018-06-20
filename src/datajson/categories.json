@@ -1,0 +1,11 @@
+[
+    { "name": "Accessories", "sub": ["Anklets", "Belts", "Bracelets", "Canes", "Charms", "Cravats", "Eyewear", "Glosbe", "Handbags", "Hats", "Jewelries", "Lanyards", "Necklaces", "Rings", "Scarves", "Shocks", "Shoes", "Ties", "Wallets", "Watchs"] },
+    { "name": "Clothes", "sub": ["Armwear", "Belts", "Children's clothing", "Coats", "Dresses", "Footwears", "Gowns", "Headgear", "Hosiery", "Jackets", "Jeans by type", "Knee clothing", "Masks", "Neckwear", "One-piece suits", "Outerwear", "Ponchos", "Robes and cloaks", "Royal attire", "Saris", "Shawls and wraps", "Skirts", "Sports clothing", "Suits", "Tops", "Trousers and shorts", "Undergarments", "Wedding clothing"] },
+    { "name": "Cosmetics", "sub": [] },
+    { "name": "Devices", "sub": ["Cellphone", "Smartphone", "Smartwatch", "Smart contact lense", "Music player", "Speakers", "Translators", "Printers", "Earphones", "Headphones"] },
+    { "name": "Electronics", "sub": ["Washing machine", "Electronic Fans", "Air-conditioners", "Televisions", "Fridge", "Microwaves", "Ovens", "Blenders", "Cookers"] },
+    { "name": "Foods", "sub": ["Animals", "Vegetables", "Additives", "Spices"] },
+    { "name": "Health", "sub": ["Medicines", "Medical instruments", "Drugs"] },
+    { "name": "Office", "sub": ["Pens", "Pencils", "Rulers", "Highlighter", "Notebooks", "Books", "Compass"] }
+
+]
