@@ -1,9 +1,7 @@
 # cryptoshop
 
-> My first vue completely shop
-
+> My first vue completely shop. This is the upgraded version of CryptoShop but in Vue (Recoding)
 ## Build Setup
-
 ``` bash
 # install dependencies
 npm install
