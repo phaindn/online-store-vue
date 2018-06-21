@@ -2,7 +2,7 @@
     <div :id="keyID" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ul class="carousel-indicators">
-        <li :data-target="getId" v-for="(item, index) in list" :key="item"  :data-slide-to="index" :class="{'active' : index == 0}"></li>
+        <li :data-target="getId()" v-for="(item, index) in list" :key="item"  :data-slide-to="index" :class="{'active' : index == 0}"></li>
     </ul>
     <!-- The slideshow -->
     <div class="carousel-inner">
